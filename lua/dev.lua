@@ -8,5 +8,4 @@ require("mc-todo").setup {
   initial_target_file = "READMEa.md",
   fallback_file = "~/notes/todo.md",
 }
-
 vim.keymap.set("n", "<leader>mt", "<CMD>MTodo<CR>", { silent = true })
