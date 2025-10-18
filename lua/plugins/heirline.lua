@@ -20,5 +20,7 @@ return {
       status.component.nav(),
       -- remove the 2nd mode indicator on the right
     }
+
+    opts.winbar = nil
   end,
 }
