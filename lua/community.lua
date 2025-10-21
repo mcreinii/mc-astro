@@ -13,4 +13,5 @@ return {
   -- { import = "astrocommunity.recipes.heirline-mode-text-statusline" },
   { import = "astrocommunity.recipes.disable-borders" },
   { import = "astrocommunity.recipes.picker-nvchad-theme" },
+  { import = "astrocommunity.colorscheme.catppuccin" },
 }

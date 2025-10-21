@@ -29,4 +29,9 @@ return {
     priority = 1000,
     lazy = false,
   },
+  {
+    "dasupradyumna/midnight.nvim",
+    priority = 1000,
+    lazy = false,
+  },
 }
